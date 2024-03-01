@@ -1,10 +1,11 @@
 @charset "UTF-8";
 
-nav{
-	
-	background-color: brown;
-}
-
 .vetepabajo{
 	margin-top: 10%;
+}
+
+label{
+	
+	background-color: goldenrod;
+	
 }
