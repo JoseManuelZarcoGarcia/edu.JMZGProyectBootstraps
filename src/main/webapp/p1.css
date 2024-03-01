@@ -7,5 +7,28 @@
 label{
 	
 	background-color: goldenrod;
+	border-style: solid;
+	border-color: black;
+	margin: 5%;
+	
+}
+
+img{
+	background-color: goldenrod;
+	border-style: solid;
+	border-color: black;
+	margin: 5%;
+}
+
+h3{
+	
+	text-decoration: underline royalblue;
+	margin-bottom: 10%;
+	
+}
+
+.vetepabajo{
+	
+	margin-top: 10%;
 	
 }
